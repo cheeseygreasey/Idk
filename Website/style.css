@@ -1,0 +1,55 @@
+#container {
+	background-color: yellow;
+	width: 768px;
+	margin:auto;
+	padding: 0;
+}
+#content{
+	background-color: green;
+	margin: 0;
+	width: 508px;
+	float: left;
+	padding: 10px 40px 10px 20px
+}
+#navigation{
+	background-color: aqua;
+	padding: 10px 10px 10px 10px;
+	margin: 0;
+	float: right;
+	width: 175px;
+	height: 100%;
+	border: 1px solid black;
+}
+#footer{
+	clear: both;
+	background-color: grey;
+	padding: 10px 20px;
+	margin: 0;
+	font-size: 85%;
+	font-weight: bold;
+}
+table{
+	width: 250px;
+	margin: 5px 0 0 5px;
+	border-spacing: 10px 5px;
+}
+
+th{
+	font-weight: bold;
+	border-bottom: 1px dashed black;
+}
+.seasoncol{
+	width: 20%;
+	text-align: left;
+}
+
+.datescol{
+	width: 40%;
+	text-align: left;
+}
+
+.body-img{
+	float: right;
+	border: 5px solid red;
+	margin: 0px 20px 0 50px
+}
